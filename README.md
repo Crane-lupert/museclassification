@@ -1,5 +1,5 @@
 # museclassification
-this project is based on classification of song by youtube comment. It contains 3NLP process+1ML Process
+This project is based on classification of song by youtube comment. It contains 3NLP process+1ML Process
 
 what i used : eclipse pydev (python 3.7), docker(for oracle sql), google spreadsheet
 
