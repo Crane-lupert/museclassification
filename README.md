@@ -11,6 +11,4 @@ how to complie : NLP1->NLP2->NLP3->ML4
 
 final result : plt graph in ML4 code+csv named "final_classification_result.csv"
 
-In case of Copyright infringe, most of this project is coming from internet source.
-
-There's no intention of commercial use.
+In case of Copyright infringe, there's no intention of commercial use.
